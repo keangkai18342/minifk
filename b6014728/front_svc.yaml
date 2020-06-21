@@ -4,7 +4,7 @@ metadata:
   labels:
     app: front
   name: front
-  namespace: default
+  namespace: b6014728
 spec:
   externalTrafficPolicy: Cluster
   ports:

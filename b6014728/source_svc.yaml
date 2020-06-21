@@ -4,7 +4,7 @@ metadata:
   labels:
     app: source
   name: source
-  namespace: default
+  namespace: b6014728
 spec:
   ports:
   - port: 8080
